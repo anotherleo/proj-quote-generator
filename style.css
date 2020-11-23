@@ -75,7 +75,7 @@ button:active {
 }
 
 .twitter-button:hover {
-    color:#38a1f3;
+    color:#c75e0c; /* when inverted becomes #38a1f3 */
 }
 
 .fa-twitter {
